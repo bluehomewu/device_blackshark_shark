@@ -11,7 +11,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 PRODUCT_BRAND := blackshark
 PRODUCT_DEVICE := shark
 PRODUCT_MANUFACTURER := blackshark
-PRODUCT_NAME := lineage_shark
+PRODUCT_NAME := havoc_shark
 PRODUCT_MODEL := shark
 
 PRODUCT_GMS_CLIENTID_BASE := android-blackshark
