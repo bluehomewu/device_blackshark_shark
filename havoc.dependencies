@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "github",
+    "repository": "BlackSharkCode/BlackShark_Kernel_OpenSource",
+    "target_path": "kernel/blakcshark/sdm845",
+    "branch": "shark_o"
+  },
+  {
+    "remote": "github",
+    "repository": "bluehomewu/vendor_blackshark_shark",
+    "target_path": "vendor/blackshark",
+    "branch": "shark-user-10-G66X1912230CN00DQX-V11.0.4.0.JOYUI-release-keys"
+  },
+  {
+    "remote": "github",
+    "repository": "AOSPA/android_prebuilts_gcc_linux-x86_aarch64_aarch64-elf",
+    "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-elf",
+    "branch": "master"
+  },
+  {
+    "remote": "github",
+    "repository": "AOSPA/android_prebuilts_gcc_linux-x86_arm_arm-eabi",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi",
+    "branch": "master"
+  }
+]
