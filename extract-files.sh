@@ -17,8 +17,8 @@
 
 set -e
 
-export DEVICE_COMMON=Z01R
-export VENDOR=asus
+export DEVICE_COMMON=shark
+export VENDOR=blackshark
 
 export DEVICE_BRINGUP_YEAR=2018
 

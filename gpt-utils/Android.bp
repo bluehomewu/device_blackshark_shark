@@ -16,7 +16,7 @@
 
 
 cc_library {
-    name: "libgptutils.asus_sdm845",
+    name: "libgptutils.blackshark_sdm845",
     vendor: true,
     recovery_available: true,
     shared_libs: [

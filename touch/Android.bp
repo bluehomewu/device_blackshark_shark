@@ -14,8 +14,8 @@
 // limitations under the License.
 
 cc_binary {
-    name: "lineage.touch@1.0-service.asus_Z01R",
-    init_rc: ["lineage.touch@1.0-service.asus_Z01R.rc"],
+    name: "lineage.touch@1.0-service.blackshark_shark",
+    init_rc: ["lineage.touch@1.0-service.blackshark_shark.rc"],
     defaults: ["hidl_defaults"],
     relative_install_path: "hw",
     srcs: [

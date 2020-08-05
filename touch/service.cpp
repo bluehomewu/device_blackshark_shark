@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#define LOG_TAG "lineage.touch@1.0-service.asus_Z01R"
+#define LOG_TAG "lineage.touch@1.0-service.blackshark_shark"
 
 #include <android-base/logging.h>
 #include <hidl/HidlTransportSupport.h>

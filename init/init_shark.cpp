@@ -57,10 +57,10 @@ void vendor_load_properties()
 {
     // fingerprint
     property_override_dual("ro.build.fingerprint", "ro.vendor.build.fingerprint", "google/coral/coral:10/QQ3A.200705.002/6506677:user/release-keys");
-    property_override("ro.product.device", "ASUS_Z01R_1");
-    property_override("ro.product.model", "Zenfone 5Z");
-    property_override("ro.product.brand", "Asus");
-    property_override("ro.build.description", "Z01R-user 10 QKQ1.191008.001 100.10.107.46 release-keys");
+    property_override("ro.product.device", "shark");
+    property_override("ro.product.model", "shark");
+    property_override("ro.product.brand", "Blackshark");
+    property_override("ro.build.description", "shark-user 10 QKQ1.191008.001 100.10.107.46 release-keys");
     property_override("org.havoc.build_maintainer", "Edward Wu");
     property_override("org.havoc.build_support_url", "https://t.me/HavocZ01R");
 }
